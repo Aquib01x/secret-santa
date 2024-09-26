@@ -1,0 +1,17 @@
+todo:
+
+	Login/SignUp:
+		make accounts permenant, include a state field with each account
+	Home page:
+		Make status page reflect the user's current state
+		Implement all states
+		Notifications when state changes
+	Status pages
+		
+
+	For all pages:
+		improve css
+		
+
+	Misc:
+		Logo
