@@ -5,3 +5,4 @@ Upon sign up users are assigned a random person to send a gift to, they will the
 Additionally, users will be able to see the status (ready to send/sent/ ready to receive/ received) of the delivery. If they are struggling to come up with a gift idea, they can select a price range and get one randomly chosen from Amazon. There is also have a chat feature where you will be able to connect with users you have previously sent/received gift from.
 
 **Application Overview**
+![image](https://github.com/user-attachments/assets/558400d9-d624-4bd6-9d32-5bc68f52edbf)
